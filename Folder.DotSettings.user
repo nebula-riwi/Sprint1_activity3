@@ -1,0 +1,11 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/CodeInspection/ExcludedFiles/FilesAndFoldersToSkip2/=177061A9_002D1255_002DC1F1_002D1697_002D7C92D6D563B3_002Fd_003AClasses_002Ff_003ACustomer_002Ecs/@EntryIndexedValue">ExplicitlyExcluded</s:String>
+	<s:String x:Key="/Default/CodeInspection/ExcludedFiles/FilesAndFoldersToSkip2/=177061A9_002D1255_002DC1F1_002D1697_002D7C92D6D563B3_002Fd_003AClasses_002Ff_003AFestival_002Ecs/@EntryIndexedValue">ExplicitlyExcluded</s:String>
+	<s:String x:Key="/Default/CodeInspection/ExcludedFiles/FilesAndFoldersToSkip2/=177061A9_002D1255_002DC1F1_002D1697_002D7C92D6D563B3_002Fd_003AClasses_002Ff_003ATicket_002Ecs/@EntryIndexedValue">ExplicitlyExcluded</s:String>
+	<s:String x:Key="/Default/CodeInspection/ExcludedFiles/FilesAndFoldersToSkip2/=177061A9_002D1255_002DC1F1_002D1697_002D7C92D6D563B3_002Fd_003AControllers_002Ff_003AClientController_002Ecs/@EntryIndexedValue">ExplicitlyExcluded</s:String>
+	<s:String x:Key="/Default/CodeInspection/ExcludedFiles/FilesAndFoldersToSkip2/=177061A9_002D1255_002DC1F1_002D1697_002D7C92D6D563B3_002Fd_003AControllers_002Ff_003AConcertController_002Ecs/@EntryIndexedValue">ExplicitlyExcluded</s:String>
+	<s:String x:Key="/Default/CodeInspection/ExcludedFiles/FilesAndFoldersToSkip2/=177061A9_002D1255_002DC1F1_002D1697_002D7C92D6D563B3_002Fd_003AControllers_002Ff_003ATicketController_002Ecs/@EntryIndexedValue">ExplicitlyExcluded</s:String>
+	<s:String x:Key="/Default/CodeInspection/ExcludedFiles/FilesAndFoldersToSkip2/=177061A9_002D1255_002DC1F1_002D1697_002D7C92D6D563B3_002Fd_003AViews_002Ff_003AConsoleMenu_002Ecs/@EntryIndexedValue">ExplicitlyExcluded</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=ae327fa0_002D686a_002D4a46_002D8212_002Da3923bdc995f/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="All tests from Solution" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;Solution /&gt;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>
